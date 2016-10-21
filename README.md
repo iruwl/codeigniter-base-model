@@ -1,7 +1,7 @@
 codeigniter-base-model
 =====================================
 
-[![Build Status](https://secure.travis-ci.org/jamierumbelow/codeigniter-base-model.png?branch=master)](http://travis-ci.org/jamierumbelow/codeigniter-base-model)
+[![Forked from](https://github.com/benedmunds/codeigniter-base-model)](https://github.com/benedmunds/codeigniter-base-model)
 
 Still playing with CodeIgniter ?
 Off course :p
